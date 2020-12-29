@@ -1,0 +1,8 @@
+공공데이터를 이용한 데이터 만들기부터 분석까지
+https://github.com/awskrug/datascience-group/blob/master/workshop-public_data_analysis/README.md
+
+AWS MySQL 데이터베이스 생성 및 연결
+https://aws.amazon.com/ko/getting-started/hands-on/create-mysql-db/
+
+Amazon RDS for MySQL 요금
+https://aws.amazon.com/ko/rds/mysql/pricing/?pg=pr&loc=2
